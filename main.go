@@ -1,5 +1,6 @@
 package main
 
+// подключаем импорт библиотек
 import (
 	"fmt"
 )
